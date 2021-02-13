@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/Floor1\/floor1.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/marcfree.github.io\/work-adv-1\/map.json"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/Lyon\/lyon.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/marcfree.github.io\/work-adv-1\/map.json"
                 }],
          "type":"tilelayer",
          "visible":false,
