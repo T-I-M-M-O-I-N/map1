@@ -23,7 +23,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"JitsiRoom",
+                 "name":"Jitsimeet",
                  "type":"string",
                  "value":"room1"
                 }],
@@ -154,7 +154,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -171,7 +171,7 @@
                  "value":3
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -189,7 +189,7 @@
                  "value":3
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
