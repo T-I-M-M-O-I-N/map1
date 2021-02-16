@@ -26,11 +26,6 @@
                  "name":"JitsiRoom",
                  "type":"string",
                  "value":"room1"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -63,7 +58,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -81,7 +76,7 @@
                  "value":"https:\/\/play.workadventu.re\/_\/global\/marcfree.github.io\/work-adv-1\/map.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -99,7 +94,7 @@
                  "value":"https:\/\/play.workadventu.re\/_\/global\/marcfree.github.io\/work-adv-1\/map.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -111,7 +106,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -123,7 +118,7 @@
          "name":"top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -135,7 +130,7 @@
          "name":"book",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -147,7 +142,7 @@
          "name":"ordi",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
