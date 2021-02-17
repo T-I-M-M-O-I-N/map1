@@ -1,14 +1,14 @@
 # WorkAdventure Map Starter Kit
 
-This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
+Dies ist das Starter-Kit, um deine eigene Map für [WorkAdventure](https://workadventu.re) zu erstellen.
 
-## Tools you will need
+## Tools die du benötigst
 
-In order to build your own map for WorkAdventure, you need:
+Um deine eigene Map für WorAdventure zu erstellen, benötigst du folgende Tools:
 
-- the [Tiled editor](https://www.mapeditor.org/) software
-- "tiles" (i.e. images) to create your map (this starter kit provides a good default tileset for offices)
-- a web-server to serve your map (this starter kit proposes to use Github static pages as a web-server which is both free and performant)
+- die [Tiled editor](https://www.mapeditor.org/) Software
+- "tiles" (i.e. Bilder) um deine Karte zu erstellen (dieses Starter Kit beinhaltet eine gute Auswahl für Büros)
+- einen Web-Server für deine Map (das Starter-Kit schlägt vor, Github static pages als Web-Server - das ist schnell und kostenlos)
 
 ## Getting started
 
