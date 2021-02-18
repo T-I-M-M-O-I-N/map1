@@ -249,7 +249,7 @@
         {
          "draworder":"topdown",
          "id":40,
-         "name":"Objektebene 1",
+         "name":"Floorlayer",
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
