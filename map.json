@@ -109,7 +109,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=GnBc2SSGF8Y"
+                 "value":"<iframe width=\"1263\" height=\"480\" src=\"https:\/\/www.youtube.com\/embed\/GnBc2SSGF8Y\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
