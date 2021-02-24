@@ -146,6 +146,12 @@
          "id":52,
          "name":"musik",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playaudio",
+                 "type":"string",
+                 "value":"https:\/\/voy.trekcore.com\/audio\/themes\/brideofchaotica\/BoC-Chaotica'sLast%20WordsTheEnd.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":160,
@@ -493,12 +499,6 @@
  "nextlayerid":53,
  "nextobjectid":3,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"playaudio",
-         "type":"string",
-         "value":"https:\/\/voy.trekcore.com\/audio\/themes\/brideofchaotica\/BoC-Chaotica'sLast%20WordsTheEnd.mp3"
-        }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
  "tileheight":32,
