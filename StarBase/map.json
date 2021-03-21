@@ -399,23 +399,7 @@
          "draworder":"topdown",
          "id":3,
          "name":"floorLayer",
-         "objects":[
-                {
-                 "height":19,
-                 "id":1,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "text":"MOIN MOIN",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":88,
-                 "x":2534.73,
-                 "y":3711.71212121212
-                }],
+         "objects":[],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
