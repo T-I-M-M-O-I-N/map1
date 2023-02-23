@@ -38,7 +38,7 @@
                  "value":"speaker"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":288,
          "x":0,
          "y":0
@@ -56,7 +56,7 @@
                  "value":""
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":288,
          "x":0,
          "y":0
@@ -74,7 +74,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":288,
          "x":0,
          "y":0
@@ -86,7 +86,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":288,
          "x":0,
          "y":0
@@ -104,7 +104,7 @@
                  "value":"https:\/\/ent.trekcore.com\/audio\/thememusic\/openingcreditsseasons34.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":288,
          "x":0,
          "y":0
@@ -122,7 +122,7 @@
                  "value":"https:\/\/gaming.trekcore.com\/starfleetcommand3\/audio\/theme\/fed_01_main.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":288,
          "x":0,
          "y":0
@@ -140,7 +140,7 @@
                  "value":"http:\/\/www.star-voyager.de\/sound\/borg.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":288,
          "x":0,
          "y":0
@@ -158,7 +158,7 @@
                  "value":"https:\/\/medea-music.com\/wp-content\/uploads\/2018\/05\/The-Avengers-Theme-Song.mp3?_=2"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":288,
          "x":0,
          "y":0
@@ -176,7 +176,7 @@
                  "value":"https:\/\/ia800902.us.archive.org\/9\/items\/tvtunes_33170\/Star%20Trek%20Discovery.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":288,
          "x":0,
          "y":0
@@ -194,7 +194,7 @@
                  "value":"https:\/\/movies.trekcore.com\/firstcontact\/audio\/themes\/First%20Contact%20-%20[29]%20-%20End%20Credits.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":288,
          "x":0,
          "y":0
@@ -212,7 +212,7 @@
                  "value":"https:\/\/voy.trekcore.com\/audio\/themes\/brideofchaotica\/BoC-Chaotica'sLast%20WordsTheEnd.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":288,
          "x":0,
          "y":0
@@ -230,7 +230,7 @@
                  "value":"https:\/\/ia801203.us.archive.org\/13\/items\/13BinarySunsetAlternate\/11%20Cantina%20Band.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":288,
          "x":0,
          "y":0
@@ -285,7 +285,7 @@
                 }],
          "tintcolor":"#ff557f",
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":288,
          "x":0,
          "y":0
@@ -303,7 +303,7 @@
                  "value":"Meet5"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":288,
          "x":0,
          "y":0
@@ -322,7 +322,7 @@
                 }],
          "tintcolor":"#ff557f",
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":288,
          "x":0,
          "y":0
@@ -340,7 +340,7 @@
                  "value":"Meet3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":288,
          "x":0,
          "y":0
@@ -358,7 +358,7 @@
                  "value":"Meet4"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":288,
          "x":0,
          "y":0
@@ -376,7 +376,7 @@
                  "value":"offizieles sicheres meeting01"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":288,
          "x":0,
          "y":0
@@ -394,7 +394,7 @@
                  "value":"NATO"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":288,
          "x":0,
          "y":0
@@ -406,7 +406,7 @@
          "name":"nichts",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":288,
          "x":0,
          "y":0
@@ -418,7 +418,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":288,
          "x":0,
          "y":0
@@ -430,7 +430,7 @@
          "name":"top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":288,
          "x":0,
          "y":0
@@ -442,7 +442,7 @@
          "name":"book",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":288,
          "x":0,
          "y":0
@@ -454,7 +454,7 @@
          "name":"ordi",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":288,
          "x":0,
          "y":0
@@ -466,7 +466,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -483,7 +483,7 @@
                  "value":3
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":288,
          "x":0,
          "y":0
@@ -501,7 +501,7 @@
                  "value":3
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":288,
          "x":0,
          "y":0
